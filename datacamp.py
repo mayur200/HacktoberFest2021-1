@@ -1,3 +1,6 @@
+########b Datacamp Python streamline exemples ###############
+
+
 # Create dictionary to query API for cafes in NYC
 parameters = {'term':"cafe",
           	  'location':"NYC"}
